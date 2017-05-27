@@ -1,0 +1,1 @@
+It's a simple Python program that extracts reviews of specified product from amazon.in(you can change it to amazon.com). Number of Reviews to be extracted can be decided by you. Extracted reviews can be used for sentiment analysis or for creating a data set etc. Install the required libraries and you can go on!!!
